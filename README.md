@@ -8,5 +8,5 @@ I'm a Mechanical Engineering student from Florianópolis - BR
 - 🌱 I’m currently learning machine learling
 - 👯 I’m looking to collaborate on fun projects :)
 - 🤔 I’m looking for help with everything coding-related
-- 💬 Ask me about my fav roller coaster
+- 💬 Ask me about my fav roller coasters
 - 📫 How to reach me: gustavo.pombo.filippon@iwes.fraunhofer.de
